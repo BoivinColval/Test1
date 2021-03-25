@@ -9,6 +9,7 @@ public class Main {
 	//création de l'objet listePersonnes
 	
 	ListePersonnes l = new ListePersonnes();
+	ListePersonnes l2= new ListePersonnes();
 	
 	Scanner keyb= new Scanner (System.in);
 		
